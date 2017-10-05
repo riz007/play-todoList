@@ -1,0 +1,11 @@
+.btn {
+    cursor: pointer;
+}
+
+ul li {
+     list-style-type: none;
+}
+
+.container {
+    margin-top: 50px;
+}
